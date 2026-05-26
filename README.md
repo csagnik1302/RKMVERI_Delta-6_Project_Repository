@@ -9,6 +9,7 @@ File Description:
   3. Delta6_Project_Report.pdf: Contains the Report that encloses all the information related to the project.
 
 
+
 Astract:
 
 The rapid growth of autonomous delivery systems has positioned drone-based logistics
