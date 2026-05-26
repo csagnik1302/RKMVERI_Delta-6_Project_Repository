@@ -1,8 +1,8 @@
 This repository contains the Project Code, Report, and Presentation of Team Delta 6, for the course CS246: Artificial Intelligence at Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI).
 
-Project name: TRAFFIC-AWARE SINGLE-DRONE DELIVERY ROUTE OPTIMIZATION
+### Project name: TRAFFIC-AWARE SINGLE-DRONE DELIVERY ROUTE OPTIMIZATION
 
-File Description:
+### File Description:
 
   1. Delta6_Project_Code.py: Contains the Code that has been created for the project.
   2. Delta6_Project_Presentation.pdf: Contains the Presentation Slides that will be used for the in-person presentation of the project.
